@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Hashith Alakunta — Inference and ML Systems Engineering">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="45%" stop-color="#4C1D95"/>
+      <stop offset="75%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0.85"/>
+      <stop offset="60%" stop-color="#0D1117" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <rect width="1200" height="300" fill="url(#fade)"/>
+  <g fill="none" stroke="#C4B5FD" stroke-opacity="0.18" stroke-width="1">
+    <path d="M0 250 Q 300 190 600 250 T 1200 250"/>
+    <path d="M0 270 Q 300 210 600 270 T 1200 270"/>
+    <path d="M0 230 Q 300 170 600 230 T 1200 230"/>
+  </g>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="70" y="128" fill="#EDE9FE" font-size="58" font-weight="700" letter-spacing="1">Hashith Alakunta</text>
+    <text x="72" y="176" fill="#C4B5FD" font-size="24" font-weight="500" letter-spacing="4">INFERENCE &amp; ML SYSTEMS ENGINEERING</text>
+    <text x="72" y="222" fill="#A78BFA" font-size="18" font-weight="400" letter-spacing="1">Multi-Agent RAG  ·  CUDA  ·  Model Evaluation  ·  B.Tech CSE, SRM University AP</text>
+  </g>
+  <rect x="70" y="146" width="0" height="0"/>
+</svg>

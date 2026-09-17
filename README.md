@@ -7,7 +7,6 @@
 
 <img width="100%" src="assets/banner.svg" alt="Hashith Alakunta — Inference and ML Systems Engineering"/>
 
-<img src="assets/profile.jpg" width="140" alt="Hashith Alakunta"/>
 
 <br/><br/>
 
